@@ -33,7 +33,7 @@ Pré-requisitos:
 2. Baixe o [Google Chrome](https://www.google.com/chrome/).
 
 Passos:
-1. Baixe o código-fonte do [repositório](https://github.com/ethbak/connexion-for-linkedin).
+1. Baixe o código-fonte do [repositório]([https://github.com/ethbak/connexion-for-linkedin](https://github.com/JassonJr1/pesquisador-de-egresso/tree/master)).
 2. Abra o terminal do seu computador e navegue até a pasta da aplicação.
 3. Execute o seguinte comando para instalar as dependências da aplicação:
    ```bash
